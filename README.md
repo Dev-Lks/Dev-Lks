@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm Lucas from Brasil<br><br>- 🔭 I’m looking for a job<br>- 📚 I'm currently learning Go<br>- ⚡ In my free time I code</p>
+<p align="left">I'm Lucas from Brasil<br><br>- 🔭 I’m looking for a job<br>- ⚡ In my free time I code</p>
 
 ###
 
